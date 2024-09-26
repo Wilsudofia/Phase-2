@@ -243,4 +243,23 @@ National Center for Biotechnology Information (2024). PubChem Compound Summary f
 ## 48. Procurcumenol
 ![Procurcumenol](image48.png)
 **Source/Reference**:  
-National Center for Biotechnology Information (2024). PubChem Compound Summary for CID 189061 Procurcumenol. Retrieved September 22, 2024 from [PubChem](https://pubchem.nc
+National Center for Biotechnology Information (2024). PubChem Compound Summary for CID 189061 Procurcumenol. Retrieved September 22, 2024 from [PubChem]https://pubchem.ncbi.nlm.nih.gov/compound/Procurcumenol.
+
+## 49.  Dehydrocurdione
+
+**National Center for Biotechnology Information (2024).**  
+PubChem Compound Summary for CID 6442617 (6Z10S)-610-dimethyl-3-propan-2-ylidenecyclodec-6-ene-14-dione. Retrieved September 22, 2024 from [PubChem](https://pubchem.ncbi.nlm.nih.gov/compound/Dehydrocurdione).
+
+---
+
+## 50.  Curcumanolide A
+
+**National Center for Biotechnology Information (2024).**  
+PubChem Compound Summary for CID 14191393 Curcumanolide A. Retrieved September 23, 2024 from [PubChem](https://pubchem.ncbi.nlm.nih.gov/compound/Curcumanolide-A).
+
+---
+
+## 51   Germacrone-13-al
+
+**National Center for Biotechnology Information (2024).**  
+PubChem Compound Summary for CID 14633002 Germacrone-13-al.  Retrieved September 22, 2024 from [PubChem](https://pubchem.ncbi.nlm.nih.gov/compound/Germacrone-13-al).
