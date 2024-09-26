@@ -1,15 +1,15 @@
 <table>
 <colgroup>
-<col style="width: 7%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 51%" />
+<col style="width: 5%" />
+<col style="width: 15%" />
+<col style="width: 13%" />
+<col style="width: 65%" />
 </colgroup>
 <thead>
 <tr class="header">
 <th><strong>No.</strong></th>
 <th><strong>Bioactive Compound</strong></th>
-<th><strong>Chemical Structure</strong></th>
+<th><strong>Chemical structure</strong></th>
 <th><strong>Source/Reference</strong></th>
 </tr>
 </thead>
@@ -19,8 +19,7 @@
 <li></li>
 </ol></td>
 <td>Curcumin</td>
-<td><img src="media/image1.png"
-style="width:1.22277in;height:0.71801in" /></td>
+<td>https://pubchem.ncbi.nlm.nih.gov/compound/969516#section=3D-Conformer</td>
 <td>National Center for Biotechnology Information (2024). PubChem
 Compound Summary for CID 969516, Curcumin. Retrieved September 21, 2024
 from <a
@@ -31,8 +30,7 @@ href="https://pubchem.ncbi.nlm.nih.gov/compound/Curcumin">https://pubchem.ncbi.n
 <li></li>
 </ol></td>
 <td>Demethoxycurcumin</td>
-<td><img src="media/image2.png"
-style="width:1.27303in;height:0.74752in" /></td>
+<td>https://pubchem.ncbi.nlm.nih.gov/compound/5469424#section=3D-Conformer</td>
 <td>National Center for Biotechnology Information (2024). PubChem
 Compound Summary for CID 5469424, Demethoxycurcumin. Retrieved September
 21, 2024 from <a
@@ -43,8 +41,7 @@ href="https://pubchem.ncbi.nlm.nih.gov/compound/Demethoxycurcumin">https://pubch
 <li></li>
 </ol></td>
 <td>Bisdemethoxycurcumin</td>
-<td><img src="media/image3.png"
-style="width:1.29832in;height:0.76238in" /></td>
+<td>https://pubchem.ncbi.nlm.nih.gov/compound/5315472#section=3D-Conformer</td>
 <td>National Center for Biotechnology Information (2024). PubChem
 Compound Summary for CID 5315472, Bisdemethoxycurcumin. Retrieved
 September 21, 2024 from <a
@@ -55,8 +52,7 @@ href="https://pubchem.ncbi.nlm.nih.gov/compound/Bisdemethoxycurcumin">https://pu
 <li></li>
 </ol></td>
 <td>Tetrahydrocurcumin</td>
-<td><img src="media/image4.png"
-style="width:1.28146in;height:0.75247in" /></td>
+<td>https://pubchem.ncbi.nlm.nih.gov/compound/124072#section=3D-Conformer</td>
 <td>National Center for Biotechnology Information (2024). PubChem
 Compound Summary for CID 124072, Tetrahydrocurcumin. Retrieved September
 21, 2024 from <a
@@ -68,8 +64,7 @@ href="https://pubchem.ncbi.nlm.nih.gov/compound/Tetrahydrocurcumin">https://pubc
 </ol></td>
 <td><a
 href="https://pubchem.ncbi.nlm.nih.gov/compound/558221">(+/-)-ar-Turmerone</a></td>
-<td><img src="media/image5.png"
-style="width:1.28147in;height:0.75248in" /></td>
+<td>https://pubchem.ncbi.nlm.nih.gov/compound/558221#section=3D-Conformer</td>
 <td>National Center for Biotechnology Information (2024). PubChem
 Compound Summary for CID 558221,
 2-Methyl-6-(4-methylphenyl)hept-2-en-4-one. Retrieved September 21, 2024
@@ -81,8 +76,7 @@ href="https://pubchem.ncbi.nlm.nih.gov/compound/2-Methyl-6-_4-methylphenyl_hept-
 <li></li>
 </ol></td>
 <td>Curlone</td>
-<td><img src="media/image6.png"
-style="width:1.17822in;height:0.69185in" /></td>
+<td>https://pubchem.ncbi.nlm.nih.gov/compound/196216#section=3D-Conformer</td>
 <td>National Center for Biotechnology Information (2024). PubChem
 Compound Summary for CID 196216, Curlone. Retrieved September 21, 2024
 from <a
@@ -93,8 +87,7 @@ href="https://pubchem.ncbi.nlm.nih.gov/compound/Curlone">https://pubchem.ncbi.nl
 <li></li>
 </ol></td>
 <td>Zingiberene</td>
-<td><img src="media/image7.png"
-style="width:1.29832in;height:0.76238in" /></td>
+<td>https://pubchem.ncbi.nlm.nih.gov/compound/92776#section=3D-Conformer</td>
 <td>National Center for Biotechnology Information (2024). PubChem
 Compound Summary for CID 92776, Zingiberene. Retrieved September 21,
 2024 from <a
@@ -105,8 +98,7 @@ href="https://pubchem.ncbi.nlm.nih.gov/compound/Zingiberene">https://pubchem.ncb
 <li></li>
 </ol></td>
 <td>Curcumenol</td>
-<td><img src="media/image8.png"
-style="width:1.35734in;height:0.79703in" /></td>
+<td>https://pubchem.ncbi.nlm.nih.gov/compound/167812#section=3D-Conformer</td>
 <td>National Center for Biotechnology Information (2024). PubChem
 Compound Summary for CID 167812, Curcumenol. Retrieved September 21,
 2024 from <a
@@ -117,8 +109,7 @@ href="https://pubchem.ncbi.nlm.nih.gov/compound/Curcumenol">https://pubchem.ncbi
 <li></li>
 </ol></td>
 <td>Curdione</td>
-<td><img src="media/image9.png"
-style="width:1.30208in;height:0.76458in" /></td>
+<td>https://pubchem.ncbi.nlm.nih.gov/compound/6441391#section=3D-Conformer</td>
 <td>National Center for Biotechnology Information (2024). PubChem
 Compound Summary for CID 6441391, Germacr-1(10)-ene-5,8-dione. Retrieved
 September 21, 2024 from <a
@@ -129,8 +120,7 @@ href="https://pubchem.ncbi.nlm.nih.gov/compound/Germacr-1_10_-ene-5_8-dione">htt
 <li></li>
 </ol></td>
 <td>Curcumadiol</td>
-<td><img src="media/image10.png"
-style="width:1.475in;height:0.86597in" /></td>
+<td>https://pubchem.ncbi.nlm.nih.gov/compound/5316212#section=3D-Conformer</td>
 <td>National Center for Biotechnology Information (2024). PubChem
 Compound Summary for CID 5316212, Curcumadiol. Retrieved September 23,
 2024 from <a
@@ -141,8 +131,7 @@ href="https://pubchem.ncbi.nlm.nih.gov/compound/Curcumadiol">https://pubchem.ncb
 <li></li>
 </ol></td>
 <td>Cyclocurcumin</td>
-<td><img src="media/image11.png"
-style="width:1.24774in;height:0.73267in" /></td>
+<td>https://pubchem.ncbi.nlm.nih.gov/compound/69879809#section=3D-Conformer</td>
 <td>National Center for Biotechnology Information (2024). PubChem
 Compound Summary for CID 69879809, Cyclocurcumin. Retrieved September
 21, 2024 from <a
@@ -153,8 +142,7 @@ href="https://pubchem.ncbi.nlm.nih.gov/compound/Cyclocurcumin">https://pubchem.n
 <li></li>
 </ol></td>
 <td>Germacrone</td>
-<td><img src="media/image12.png"
-style="width:1.30208in;height:0.76389in" /></td>
+<td>https://pubchem.ncbi.nlm.nih.gov/compound/6436348#section=3D-Conformer</td>
 <td>National Center for Biotechnology Information (2024). PubChem
 Compound Summary for CID 6436348, Germacrone. Retrieved September 21,
 2024 from <a
@@ -165,8 +153,7 @@ href="https://pubchem.ncbi.nlm.nih.gov/compound/Germacrone">https://pubchem.ncbi
 <li></li>
 </ol></td>
 <td>Alpha-Phellandrene</td>
-<td><img src="media/image13.png"
-style="width:1.22235in;height:0.71782in" /></td>
+<td>https://pubchem.ncbi.nlm.nih.gov/compound/7460#section=3D-Conformer</td>
 <td>National Center for Biotechnology Information (2024). PubChem
 Compound Summary for CID 7460, alpha-PHELLANDRENE. Retrieved September
 21, 2024 from <a
@@ -177,8 +164,7 @@ href="https://pubchem.ncbi.nlm.nih.gov/compound/alpha-PHELLANDRENE">https://pubc
 <li></li>
 </ol></td>
 <td>Elemene</td>
-<td><img src="media/image14.png"
-style="width:1.28355in;height:0.75377in" /></td>
+<td>https://pubchem.ncbi.nlm.nih.gov/compound/6918391#section=3D-Conformer</td>
 <td>National Center for Biotechnology Information (2024). PubChem
 Compound Summary for CID 6918391, Beta-Elemene. Retrieved September 21,
 2024 from <a
@@ -189,8 +175,7 @@ href="https://pubchem.ncbi.nlm.nih.gov/compound/Beta-Elemene">https://pubchem.nc
 <li></li>
 </ol></td>
 <td>Sabinene</td>
-<td><img src="media/image15.png"
-style="width:1.30208in;height:0.76458in" /></td>
+<td>https://pubchem.ncbi.nlm.nih.gov/compound/18818#section=3D-Conformer</td>
 <td>National Center for Biotechnology Information (2024). PubChem
 Compound Summary for CID 18818, Sabinen. Retrieved September 21, 2024
 from <a
@@ -201,8 +186,7 @@ href="https://pubchem.ncbi.nlm.nih.gov/compound/Sabinen">https://pubchem.ncbi.nl
 <li></li>
 </ol></td>
 <td>Alpha-Curcumene</td>
-<td><img src="media/image16.png"
-style="width:1.20559in;height:0.70792in" /></td>
+<td>https://pubchem.ncbi.nlm.nih.gov/compound/92139#section=3D-Conformer</td>
 <td>National Center for Biotechnology Information (2024). PubChem
 Compound Summary for CID 92139, alpha-Curcumene. Retrieved September 21,
 2024 from <a
@@ -213,8 +197,7 @@ href="https://pubchem.ncbi.nlm.nih.gov/compound/alpha-Curcumene">https://pubchem
 <li></li>
 </ol></td>
 <td>Beta-Sesquiphellandrene</td>
-<td><img src="media/image17.png"
-style="width:1.20556in;height:0.7079in" /></td>
+<td>https://pubchem.ncbi.nlm.nih.gov/compound/12315492#section=3D-Conformer</td>
 <td>National Center for Biotechnology Information (2024). PubChem
 Compound Summary for CID 12315492, (-)-beta-Sesquiphellandrene.
 Retrieved September 21, 2024 from <a
@@ -225,8 +208,7 @@ href="https://pubchem.ncbi.nlm.nih.gov/compound/12315492">https://pubchem.ncbi.n
 <li></li>
 </ol></td>
 <td>Camphene</td>
-<td><img src="media/image18.png"
-style="width:1.30208in;height:0.76458in" /></td>
+<td>https://pubchem.ncbi.nlm.nih.gov/compound/6616#section=3D-Conformer</td>
 <td>National Center for Biotechnology Information (2024). PubChem
 Compound Summary for CID 6616, Camphene. Retrieved September 21, 2024
 from <a
@@ -237,8 +219,7 @@ href="https://pubchem.ncbi.nlm.nih.gov/compound/Camphene">https://pubchem.ncbi.n
 <li></li>
 </ol></td>
 <td>Eucalyptol</td>
-<td><img src="media/image19.png"
-style="width:1.30208in;height:0.76458in" /></td>
+<td>https://pubchem.ncbi.nlm.nih.gov/compound/2758#section=3D-Conformer</td>
 <td>National Center for Biotechnology Information (2024). PubChem
 Compound Summary for CID 2758, Eucalyptol. Retrieved September 21, 2024
 from <a
@@ -249,8 +230,7 @@ href="https://pubchem.ncbi.nlm.nih.gov/compound/Eucalyptol">https://pubchem.ncbi
 <li></li>
 </ol></td>
 <td>Alpha-Terpineol</td>
-<td><img src="media/image20.png"
-style="width:1.30208in;height:0.76458in" /></td>
+<td>https://pubchem.ncbi.nlm.nih.gov/compound/17100#section=3D-Conformer</td>
 <td>National Center for Biotechnology Information (2024). PubChem
 Compound Summary for CID 17100, Alpha-Terpineol. Retrieved September 21,
 2024 from <a
@@ -261,8 +241,7 @@ href="https://pubchem.ncbi.nlm.nih.gov/compound/Alpha-Terpineol">https://pubchem
 <li></li>
 </ol></td>
 <td>Dimethoxycurcumin</td>
-<td><img src="media/image21.png"
-style="width:1.475in;height:0.86597in" /></td>
+<td>https://pubchem.ncbi.nlm.nih.gov/compound/9952605#section=3D-Conformer</td>
 <td>National Center for Biotechnology Information (2024). PubChem
 Compound Summary for CID 9952605, Dimethoxycurcumin. Retrieved September
 23, 2024 from <a
@@ -273,8 +252,7 @@ href="https://pubchem.ncbi.nlm.nih.gov/compound/Dimethoxycurcumin">https://pubch
 <li></li>
 </ol></td>
 <td>Borneol</td>
-<td><img src="media/image22.png"
-style="width:1.30208in;height:0.76458in" /></td>
+<td>https://pubchem.ncbi.nlm.nih.gov/compound/64685#section=3D-Conformer</td>
 <td>National Center for Biotechnology Information (2024). PubChem
 Compound Summary for CID 64685,
 1,7,7-Trimethylbicyclo[2.2.1]heptan-2-ol. Retrieved September 21, 2024
@@ -286,8 +264,7 @@ href="https://pubchem.ncbi.nlm.nih.gov/compound/1_7_7-Trimethylbicyclo_2.2.1_hep
 <li></li>
 </ol></td>
 <td>Caryophyllene</td>
-<td><img src="media/image23.png"
-style="width:1.30208in;height:0.76458in" /></td>
+<td>https://pubchem.ncbi.nlm.nih.gov/compound/5281515#section=3D-Conformer</td>
 <td>National Center for Biotechnology Information (2024). PubChem
 Compound Summary for CID 5281515, Caryophyllene. Retrieved September 21,
 2024 from <a
@@ -298,8 +275,7 @@ href="https://pubchem.ncbi.nlm.nih.gov/compound/Caryophyllene">https://pubchem.n
 <li></li>
 </ol></td>
 <td>Cedrene</td>
-<td><img src="media/image24.png"
-style="width:1.30208in;height:0.76458in" /></td>
+<td>https://pubchem.ncbi.nlm.nih.gov/compound/521207#section=3D-Conformer</td>
 <td>National Center for Biotechnology Information (2024). PubChem
 Compound Summary for CID 521207, Cedrene. Retrieved September 21, 2024
 from <a
@@ -310,8 +286,7 @@ href="https://pubchem.ncbi.nlm.nih.gov/compound/Cedrene">https://pubchem.ncbi.nl
 <li></li>
 </ol></td>
 <td>Curcumol</td>
-<td><img src="media/image25.png"
-style="width:1.30208in;height:0.76458in" /></td>
+<td>https://pubchem.ncbi.nlm.nih.gov/compound/14240392#section=3D-Conformer</td>
 <td>National Center for Biotechnology Information (2024). PubChem
 Compound Summary for CID 14240392, Curcumol. Retrieved September 21,
 2024 from <a
@@ -322,8 +297,7 @@ href="https://pubchem.ncbi.nlm.nih.gov/compound/Curcumol">https://pubchem.ncbi.n
 <li></li>
 </ol></td>
 <td>Furanodiene</td>
-<td><img src="media/image26.png"
-style="width:1.30208in;height:0.76458in" /></td>
+<td>https://pubchem.ncbi.nlm.nih.gov/compound/636458#section=3D-Conformer</td>
 <td>National Center for Biotechnology Information (2024). PubChem
 Compound Summary for CID 636458, Furanodiene. Retrieved September 21,
 2024 from <a
@@ -334,8 +308,7 @@ href="https://pubchem.ncbi.nlm.nih.gov/compound/Furanodiene">https://pubchem.ncb
 <li></li>
 </ol></td>
 <td>Myrcene</td>
-<td><img src="media/image27.png"
-style="width:1.30208in;height:0.76458in" /></td>
+<td>https://pubchem.ncbi.nlm.nih.gov/compound/31253#section=3D-Conformer</td>
 <td>National Center for Biotechnology Information (2024). PubChem
 Compound Summary for CID 31253, Myrcene. Retrieved September 21, 2024
 from <a
@@ -346,8 +319,7 @@ href="https://pubchem.ncbi.nlm.nih.gov/compound/Myrcene">https://pubchem.ncbi.nl
 <li></li>
 </ol></td>
 <td>Ocimene</td>
-<td><img src="media/image28.png"
-style="width:1.30208in;height:0.76458in" /></td>
+<td>https://pubchem.ncbi.nlm.nih.gov/compound/5281553</td>
 <td>National Center for Biotechnology Information (2024). PubChem
 Compound Summary for CID 5281553, beta-OCIMENE, (3E)-. Retrieved
 September 21, 2024 from <a
@@ -358,8 +330,7 @@ href="https://pubchem.ncbi.nlm.nih.gov/compound/beta-OCIMENE_-_3E">https://pubch
 <li></li>
 </ol></td>
 <td>Terpinolene</td>
-<td><img src="media/image29.png"
-style="width:1.30208in;height:0.76458in" /></td>
+<td>https://pubchem.ncbi.nlm.nih.gov/compound/11463#section=3D-Conformer</td>
 <td>National Center for Biotechnology Information (2024). PubChem
 Compound Summary for CID 11463, Terpinolene. Retrieved September 21,
 2024 from <a
@@ -370,8 +341,7 @@ href="https://pubchem.ncbi.nlm.nih.gov/compound/Terpinolene">https://pubchem.ncb
 <li></li>
 </ol></td>
 <td>P-Cymene</td>
-<td><img src="media/image30.png"
-style="width:1.30208in;height:0.76458in" /></td>
+<td>https://pubchem.ncbi.nlm.nih.gov/compound/7463#section=3D-Conformer</td>
 <td>National Center for Biotechnology Information (2024). PubChem
 Compound Summary for CID 7463, p-CYMENE. Retrieved September 21, 2024
 from <a
@@ -382,8 +352,7 @@ href="https://pubchem.ncbi.nlm.nih.gov/compound/p-CYMENE">https://pubchem.ncbi.n
 <li></li>
 </ol></td>
 <td>Alpha-Pinene</td>
-<td><img src="media/image31.png"
-style="width:1.30208in;height:0.76458in" /></td>
+<td>https://pubchem.ncbi.nlm.nih.gov/compound/6654#section=3D-Conformer</td>
 <td>National Center for Biotechnology Information (2024). PubChem
 Compound Summary for CID 6654, alpha-PINENE. Retrieved September 21,
 2024 from <a
@@ -394,8 +363,7 @@ href="https://pubchem.ncbi.nlm.nih.gov/compound/alpha-PINENE">https://pubchem.nc
 <li></li>
 </ol></td>
 <td>Beta-Pinene</td>
-<td><img src="media/image32.png"
-style="width:1.30208in;height:0.76458in" /></td>
+<td>https://pubchem.ncbi.nlm.nih.gov/compound/14896#section=3D-Conformer</td>
 <td>National Center for Biotechnology Information (2024). PubChem
 Compound Summary for CID 14896, beta-Pinene. Retrieved September 21,
 2024 from <a
@@ -406,8 +374,7 @@ href="https://pubchem.ncbi.nlm.nih.gov/compound/beta-Pinene">https://pubchem.ncb
 <li></li>
 </ol></td>
 <td>3-Carene</td>
-<td><img src="media/image33.png"
-style="width:1.30208in;height:0.76458in" /></td>
+<td>https://pubchem.ncbi.nlm.nih.gov/compound/26049#section=3D-Conformer</td>
 <td>National Center for Biotechnology Information (2024). PubChem
 Compound Summary for CID 26049, 3-Carene. Retrieved September 21, 2024
 from <a
@@ -418,8 +385,7 @@ href="https://pubchem.ncbi.nlm.nih.gov/compound/3-Carene">https://pubchem.ncbi.n
 <li></li>
 </ol></td>
 <td>Eugenol</td>
-<td><img src="media/image34.png"
-style="width:1.30208in;height:0.76458in" /></td>
+<td>https://pubchem.ncbi.nlm.nih.gov/compound/3314#section=3D-Conformer</td>
 <td>National Center for Biotechnology Information (2024). PubChem
 Compound Summary for CID 3314, Eugenol. Retrieved September 21, 2024
 from <a
@@ -430,8 +396,7 @@ href="https://pubchem.ncbi.nlm.nih.gov/compound/Eugenol">https://pubchem.ncbi.nl
 <li></li>
 </ol></td>
 <td>Linalool</td>
-<td><img src="media/image35.png"
-style="width:1.30208in;height:0.76458in" /></td>
+<td>https://pubchem.ncbi.nlm.nih.gov/compound/6549</td>
 <td>National Center for Biotechnology Information (2024). PubChem
 Compound Summary for CID 6549, Linalool, (+/-)-. Retrieved September 21,
 2024 from <a
@@ -442,8 +407,7 @@ href="https://pubchem.ncbi.nlm.nih.gov/compound/Linalool">https://pubchem.ncbi.n
 <li></li>
 </ol></td>
 <td>Nerolidol</td>
-<td><img src="media/image36.png"
-style="width:1.30208in;height:0.76458in" /></td>
+<td>https://pubchem.ncbi.nlm.nih.gov/compound/5284507#section=3D-Conformer</td>
 <td>National Center for Biotechnology Information (2024). PubChem
 Compound Summary for CID 5284507, trans-Nerolidol. Retrieved September
 21, 2024 from <a
@@ -454,8 +418,7 @@ href="https://pubchem.ncbi.nlm.nih.gov/compound/trans-Nerolidol">https://pubchem
 <li></li>
 </ol></td>
 <td>Guaiacol</td>
-<td><img src="media/image37.png"
-style="width:1.30208in;height:0.76458in" /></td>
+<td>https://pubchem.ncbi.nlm.nih.gov/compound/460#section=3D-Conformer</td>
 <td>National Center for Biotechnology Information (2024). PubChem
 Compound Summary for CID 460, Guaiacol. Retrieved September 21, 2024
 from <a
@@ -466,8 +429,7 @@ href="https://pubchem.ncbi.nlm.nih.gov/compound/Guaiacol">https://pubchem.ncbi.n
 <li></li>
 </ol></td>
 <td>Bisacurone</td>
-<td><img src="media/image38.png"
-style="width:1.30208in;height:0.76458in" /></td>
+<td>https://pubchem.ncbi.nlm.nih.gov/compound/14287397#section=3D-Conformer</td>
 <td>National Center for Biotechnology Information (2024). PubChem
 Compound Summary for CID 14287397, Bisacurone. Retrieved September 21,
 2024 from <a
@@ -478,8 +440,7 @@ href="https://pubchem.ncbi.nlm.nih.gov/compound/Bisacurone">https://pubchem.ncbi
 <li></li>
 </ol></td>
 <td>Farnesol</td>
-<td><img src="media/image39.png"
-style="width:1.30208in;height:0.76458in" /></td>
+<td>https://pubchem.ncbi.nlm.nih.gov/compound/445070#section=3D-Conformer</td>
 <td>National Center for Biotechnology Information (2024). PubChem
 Compound Summary for CID 445070, trans,trans-Farnesol. Retrieved
 September 21, 2024 from <a
@@ -490,8 +451,7 @@ href="https://pubchem.ncbi.nlm.nih.gov/compound/trans_trans-Farnesol">https://pu
 <li></li>
 </ol></td>
 <td>Beta-Bisabolene</td>
-<td><img src="media/image40.png"
-style="width:1.30208in;height:0.76458in" /></td>
+<td>https://pubchem.ncbi.nlm.nih.gov/compound/10104370#section=3D-Conformer</td>
 <td>National Center for Biotechnology Information (2024). PubChem
 Compound Summary for CID 10104370, beta-Bisabolene. Retrieved September
 21, 2024 from <a
@@ -502,8 +462,7 @@ href="https://pubchem.ncbi.nlm.nih.gov/compound/beta-Bisabolene">https://pubchem
 <li></li>
 </ol></td>
 <td>Turmeronol A</td>
-<td><img src="media/image41.png"
-style="width:1.30208in;height:0.76458in" /></td>
+<td>https://pubchem.ncbi.nlm.nih.gov/compound/11117927#section=3D-Conformer</td>
 <td>National Center for Biotechnology Information (2024). PubChem
 Compound Summary for CID 11117927, Turmeronol A. Retrieved September 21,
 2024 from <a
@@ -514,8 +473,7 @@ href="https://pubchem.ncbi.nlm.nih.gov/compound/Turmeronol-A">https://pubchem.nc
 <li></li>
 </ol></td>
 <td>Turmeronol B</td>
-<td><img src="media/image42.png"
-style="width:1.30208in;height:0.76458in" /></td>
+<td>https://pubchem.ncbi.nlm.nih.gov/compound/10955433#section=3D-Conformer</td>
 <td>National Center for Biotechnology Information (2024). PubChem
 Compound Summary for CID 10955433, Turmeronol B. Retrieved September 21,
 2024 from <a
@@ -527,8 +485,7 @@ href="https://pubchem.ncbi.nlm.nih.gov/compound/Turmeronol-B">https://pubchem.nc
 </ol></td>
 <td><a
 href="https://pubchem.ncbi.nlm.nih.gov/compound/Cyclohexane">Cyclohexane</a></td>
-<td><img src="media/image43.png"
-style="width:1.30208in;height:0.76458in" /></td>
+<td>https://pubchem.ncbi.nlm.nih.gov/compound/8078#section=3D-Conformer</td>
 <td>National Center for Biotechnology Information (2024). PubChem
 Compound Summary for CID 8078, Cyclohexane. Retrieved September 23, 2024
 from <a
@@ -539,8 +496,7 @@ href="https://pubchem.ncbi.nlm.nih.gov/compound/Cyclohexane">https://pubchem.ncb
 <li></li>
 </ol></td>
 <td>Turmerol</td>
-<td><img src="media/image44.png"
-style="width:1.30208in;height:0.76458in" /></td>
+<td>https://pubchem.ncbi.nlm.nih.gov/compound/20055538#section=3D-Conformer</td>
 <td>National Center for Biotechnology Information (2024). PubChem
 Compound Summary for CID 20055538, Turmerol. Retrieved September 21,
 2024 from <a
@@ -551,8 +507,7 @@ href="https://pubchem.ncbi.nlm.nih.gov/compound/Turmerol">https://pubchem.ncbi.n
 <li></li>
 </ol></td>
 <td>Calebin A</td>
-<td><img src="media/image45.png"
-style="width:1.30208in;height:0.76458in" /></td>
+<td>https://pubchem.ncbi.nlm.nih.gov/compound/637429#section=3D-Conformer</td>
 <td>National Center for Biotechnology Information (2024). PubChem
 Compound Summary for CID 637429, Calebin A. Retrieved September 21, 2024
 from <a
@@ -563,8 +518,7 @@ href="https://pubchem.ncbi.nlm.nih.gov/compound/Calebin-A">https://pubchem.ncbi.
 <li></li>
 </ol></td>
 <td>Epiprocurcumenol</td>
-<td><img src="media/image46.png"
-style="width:1.30208in;height:0.76458in" /></td>
+<td>https://pubchem.ncbi.nlm.nih.gov/compound/10263440#section=3D-Conformer</td>
 <td>National Center for Biotechnology Information (2024). PubChem
 Compound Summary for CID 10263440, Epiprocurcumenol. Retrieved September
 21, 2024 from <a
@@ -575,8 +529,7 @@ href="https://pubchem.ncbi.nlm.nih.gov/compound/Epiprocurcumenol">https://pubche
 <li></li>
 </ol></td>
 <td>Curcumenone</td>
-<td><img src="media/image47.png"
-style="width:1.30208in;height:0.76458in" /></td>
+<td>https://pubchem.ncbi.nlm.nih.gov/compound/153845#section=3D-Conformer</td>
 <td>National Center for Biotechnology Information (2024). PubChem
 Compound Summary for CID 153845, Bicyclo(4.1.0)heptan-3-one,
 1-methyl-4-(1-methylethylidene)-7-(3-oxobutyl)-, (1S,6R,7R)-. Retrieved
@@ -588,8 +541,7 @@ href="https://pubchem.ncbi.nlm.nih.gov/compound/Curcumenone">https://pubchem.ncb
 <li></li>
 </ol></td>
 <td>Procurcumenol</td>
-<td><img src="media/image48.png"
-style="width:1.30208in;height:0.76458in" /></td>
+<td>https://pubchem.ncbi.nlm.nih.gov/compound/189061#section=3D-Conformer</td>
 <td>National Center for Biotechnology Information (2024). PubChem
 Compound Summary for CID 189061, Procurcumenol. Retrieved September 22,
 2024 from <a
@@ -600,8 +552,7 @@ href="https://pubchem.ncbi.nlm.nih.gov/compound/Procurcumenol">https://pubchem.n
 <li></li>
 </ol></td>
 <td>Dehydrocurdione</td>
-<td><img src="media/image49.png"
-style="width:1.30208in;height:0.76458in" /></td>
+<td>https://pubchem.ncbi.nlm.nih.gov/compound/6442617#section=3D-Conformer</td>
 <td>National Center for Biotechnology Information (2024). PubChem
 Compound Summary for CID 6442617,
 (6Z,10S)-6,10-dimethyl-3-propan-2-ylidenecyclodec-6-ene-1,4-dione.
@@ -613,8 +564,7 @@ href="https://pubchem.ncbi.nlm.nih.gov/compound/Dehydrocurdione">https://pubchem
 <li></li>
 </ol></td>
 <td>Curcumanolide A</td>
-<td><img src="media/image50.png"
-style="width:1.30208in;height:0.76458in" /></td>
+<td>https://pubchem.ncbi.nlm.nih.gov/compound/14191393#section=3D-Conformer</td>
 <td>National Center for Biotechnology Information (2024). PubChem
 Compound Summary for CID 14191393, Curcumanolide A. Retrieved September
 23, 2024 from <a
@@ -625,8 +575,7 @@ href="https://pubchem.ncbi.nlm.nih.gov/compound/Curcumanolide-A">https://pubchem
 <li></li>
 </ol></td>
 <td>Germacrone-13-al</td>
-<td><img src="media/image51.png"
-style="width:1.30208in;height:0.76458in" /></td>
+<td>https://pubchem.ncbi.nlm.nih.gov/compound/14633002#section=3D-Conformer</td>
 <td>National Center for Biotechnology Information (2024). PubChem
 Compound Summary for CID 14633002, Germacrone-13-al. Retrieved September
 22, 2024 from <a
